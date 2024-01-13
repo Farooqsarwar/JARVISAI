@@ -1,0 +1,1 @@
+Welcome to Mini Desktop Jarvis, your personal assistant powered by Python! This lightweight Jarvis implementation aims to assist you with various tasks right from your desktop. Whether it's fetching information, performing calculations, or executing simple commands
